@@ -1,1 +1,7 @@
 https://username:p4ssw0rd@mysecretwebsite.com
+
+username=acm_user
+password=asd'a!)21u4asd.as
+
+spring.cloud.config.username=topsikrituser
+spring.cloud.config.passowrd=OFasJRwqırasbndjas
