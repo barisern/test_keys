@@ -1,0 +1,7 @@
+hellowr
+
+passwd=123;
+
+"parola":"topsekretkey",
+
+password="this is not a password"
