@@ -12,3 +12,5 @@ app.config['SECRET_KEY'] = 'dbsifresi123'
 passwd=123;
 
 "parola":"topsekretkey",
+
+password="this is not a password"
