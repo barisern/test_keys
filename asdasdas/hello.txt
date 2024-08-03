@@ -5,3 +5,6 @@ password=asd'a!)21u4asd.as
 
 spring.cloud.config.username=topsikrituser
 spring.cloud.config.passowrd=OFasJRwqırasbndjas
+
+dbsifresi = 'F7oJ3Y8YZtZwp6XK6Q1TOa1AUKoHgeYTePTGolx3nyNPkUn9xchhIbHeIKXTRSGI'
+app.config['SECRET_KEY'] = 'dbsifresi123'
