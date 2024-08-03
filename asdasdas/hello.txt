@@ -8,3 +8,7 @@ spring.cloud.config.password=OFasJRwqırasbndjas
 
 dbsifresi = 'F7oJ3Y8YZtZwp6XK6Q1TOa1AUKoHgeYTePTGolx3nyNPkUn9xchhIbHeIKXTRSGI'
 app.config['SECRET_KEY'] = 'dbsifresi123'
+
+passwd=123;
+
+"parola":"topsekretkey",
