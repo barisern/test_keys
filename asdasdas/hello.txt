@@ -14,3 +14,5 @@ passwd=123;
 "parola":"topsekretkey",
 
 password="this is not a password"
+
+tokennot=dor_v1_fafafafafafafafafa
