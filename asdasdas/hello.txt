@@ -16,3 +16,5 @@ passwd=123;
 password="this is not a password"
 
 tokennot=dor_v1_fafafafafafafafafa
+key=dor_v1_fafafafafafafasdd
+token=dor_v1_9c6108dc51700805399a9eff2d792c75b5b3f2f49d85f776082319d16324fa8
