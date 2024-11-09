@@ -1,6 +1,6 @@
 hellowr
 
-passwd=123;
+passwd=1234;
 
 "parola":"topsekretkey",
 
